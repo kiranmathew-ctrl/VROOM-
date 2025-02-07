@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "837079867878",
+    "project_id": "hypermile-6f118",
+    "storage_bucket": "hypermile-6f118.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:837079867878:android:cf69cc3cf53858f5cef627",
+        "android_client_info": {
+          "package_name": "com.example.hypermile"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBAY_DdnNRXNZsk2wEGOpJazkG_z1Lm6M4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
